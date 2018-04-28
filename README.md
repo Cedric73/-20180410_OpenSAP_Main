@@ -1,2 +1,2 @@
 # -20180410_OpenSAP_Main
-Main repository for Git Web Ide demos
+Main repository for [openSAP](http://opensap.com) Git Web Ide demos
